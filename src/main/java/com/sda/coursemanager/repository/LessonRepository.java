@@ -1,4 +1,4 @@
-package com.sda.coursemanager;
+package com.sda.coursemanager.repository;
 
 import com.sda.coursemanager.model.Lesson;
 import org.springframework.data.jpa.repository.JpaRepository;
